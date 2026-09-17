@@ -1,0 +1,68 @@
+commit 9f47779d757c409b5ffee30f8c59e67656cf7e94
+Author: Kenny Luu <85083572+Tatadashi@users.noreply.github.com>
+Date:   Fri Sep 11 11:41:24 2026 -0700
+
+    Added my info to index.html
+
+commit cf5c9f5b07a033ad1912228f5a3b75de31c70998
+Merge: f37cdce 8b56f85
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Fri Sep 11 11:22:53 2026 -0700
+
+    Merge pull request #1 from melanie-824/feature-about-me
+    
+    Feature about me
+
+commit 8b56f85fab48fdfe4855d92352f87a441cc37978
+Merge: f738de8 f37cdce
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Fri Sep 11 11:22:30 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit f738de8e2bce6471a0d93c0a378cddf3ae7ab292
+Author: melanie-824 <mguzma155@calstatela.edu>
+Date:   Fri Sep 11 11:16:12 2026 -0700
+
+    Update about me info in index.html
+    
+    Updating personal information on 'my page' in index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
